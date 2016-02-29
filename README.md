@@ -2,7 +2,7 @@
 This repository contains several small projects that has been made in order to learn the C++ language.
 
 Programs made with help of C++ Video-Tutorials by Miroslaw Zelent (C++ Tutorial folder)
-1. Hello World
+1. Hello World << endl;
 2. Simple Item Distribution Program
 3. IF instruction - PIN code
 4. IF instruction - login
