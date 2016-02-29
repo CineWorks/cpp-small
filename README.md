@@ -3,36 +3,41 @@ This repository contains several small projects that has been made in order to l
 
 Programs made with help of C++ Video-Tutorials by Miroslaw Zelent (C++ Tutorial folder)
 
-1. Hello World
+1) Hello World
  
- Simple Item Distribution Program
+2) Simple Item Distribution Program
  
- IF instruction - PIN code
+3) IF instruction - PIN code
  
- IF instruction - login
+4) IF instruction - login
  
- FOR instruction - introduction
+5) FOR instruction - introduction
  
- FOR instruction - countdown
+6) FOR instruction - countdown
  
- FOR instruction - bacteria
+7) FOR instruction - bacteria
  
- RAND instruction - number guessing game
+8) RAND instruction - number guessing game
  
- RAND instruction - powerball
+9) RAND instruction - powerball
  
- Tables - introduction
+10) Tables - introduction
  
- Tables - Fibonacci Number
+11) Tables - Fibonacci Number
  
- SWITCH/CASE instruction - Simple Calculator
+12) SWITCH/CASE instruction - Simple Calculator
  
- SWITCH/CASE instruction - Day per month checker
+13) SWITCH/CASE instruction - Day per month checker
  
- Text Files - Read & Write
+14) Text Files - Read & Write
 
 
 Other folders will include other small works as a test of my own abilities.
+
 1a) Weather-check program
+
 (planning stage) A mobile board game about survivors (Rust Board Game).
+
+
+
 Made by Marcin Torchala
