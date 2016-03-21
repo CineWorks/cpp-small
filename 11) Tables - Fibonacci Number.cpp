@@ -10,8 +10,8 @@ int c;
 
 int main()
 {
-    cout << "Program wypisujacy Ciag Fibonacciego i Zlotej Liczby" << endl;
-    cout << "Wybierz 1 dla ciagu liczb, 2 dla poszczegolnej liczby i 3 aby wyznaczyc Zlota Liczbe: ";
+    cout << "Program wypisujacy Ciag Fibonacciego i Zlotej Liczby" << endl<<endl;
+    cout << "Wybierz 1 dla ciagu liczb,"<<endl<<"2 dla poszczegolnej liczby"<<endl<<"lub 3 aby wyznaczyc Zlota Liczbe: ";
     cin >> c;
 
     if (c==1)

@@ -3,7 +3,7 @@
 using namespace std;
 
 float ocena[5];
-int suma, srednia;                         // float - floating point (zmienny przecinek)
+float suma, srednia;                         // float - floating point (zmienny przecinek)
                                         // 5 zarezerwowanych komorek, czyli od 0 do 4 [0,1,2,3,4]
 int main()
 {

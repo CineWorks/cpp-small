@@ -9,7 +9,7 @@ int x, y;                                                                   // .
 int main()
 {
     cout << "Witaj w programie sprawiedliwie dzielacym przedmioty" << endl;
-    cout << "Podaj dostępna liczbe przedmiotów: " << endl;
+    cout << "Podaj dostepna liczbe przedmiotow: " << endl;
     cin     >> items ;                                               // Komenda sluzaca do wpisania danych (najczesciej liczb) do pamieci podrecznej, ktore sa podane przez przez uzytkownika
     cout << "Podaj ilosc osob: " << endl;
     cin     >> peers ;

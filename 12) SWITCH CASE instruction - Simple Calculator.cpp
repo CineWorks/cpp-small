@@ -1,7 +1,7 @@
 #include <iostream>
 #include <stdio.h>
 #include <cstdlib>
-#include <curses.h>
+#include <conio.h>
 
 using namespace std;
 
@@ -71,7 +71,7 @@ int main()
         cin.ignore();
         cout << endl << "Wcisnij ENTER, aby sprobowac ponownie..." << endl;
         cin.get();
-        system("clear");
+        system("cls");
     }
     return 0;
 }

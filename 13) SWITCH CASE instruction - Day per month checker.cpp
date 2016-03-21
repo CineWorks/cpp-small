@@ -1,7 +1,7 @@
 #include <iostream>
 #include <stdio.h>
 #include <cstdlib>
-#include <curses.h>							// tzw. <conio.h> Linux'owe
+#include <conio.h>							// tzw. <conio.h> Linux'owe
 
 using namespace std;
 
@@ -14,7 +14,7 @@ int main()
     while (true)
     {
 
-        cout << "Ile dni ma miesiac. Sprawdz!" << endl; 
+        cout << "Ile dni ma miesiac. Sprawdz!" << endl;
         cout << "Podaj numer miesiaca: ";
         if(!(cin >> nr_miesiaca))
             {
@@ -63,7 +63,7 @@ int main()
         cin.ignore();
         cout << endl << "Wcisnij ENTER, aby sprobowac ponownie..." << endl;
         cin.get();
-        system("clear");
+        system("cls");
     }
     return 0;
 }

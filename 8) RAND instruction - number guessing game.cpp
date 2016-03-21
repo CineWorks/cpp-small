@@ -24,10 +24,10 @@ int main()
                      cout << "Udalo sie! Wygrywasz w "<< ile_prob <<" probie!" << endl;
 
                 else if (strzal>liczba)
-                     cout << "To za duzo!" << endl;
+                     cout << endl << "To za duzo!" << endl;
 
                 else if (strzal<liczba)
-                     cout << "To za malo!" << endl;
+                     cout << endl << "To za malo!" << endl;
     }
 
     getchar(); getchar();

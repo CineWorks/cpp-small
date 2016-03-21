@@ -1,5 +1,6 @@
 #include <iostream>
-#include <unistd.h>
+#include <windows.h>
+#include <time.h>
 #include <cstdlib>
 
 
@@ -12,7 +13,7 @@ int i=1, liczba;
 int main()
 {
     cout << "Witamy w losowaniu! Za 3 sekundy nastapi zwolnienie blokady" << endl;
-    sleep(3);
+    Sleep(3000);
     cout << endl;
 
     srand(time(NULL));
@@ -20,11 +21,11 @@ int main()
     for (i=1; i<=6 ; i++)
     {
                 liczba=rand()%49+1;
-                sleep(1);
+                Sleep(1000);
                 cout << liczba << "\a"<< endl;
     }
 
-
+// Unfortunately, this program might generate one number more than once.
 
 
 
