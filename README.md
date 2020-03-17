@@ -38,4 +38,4 @@ Other folders will include other small works as a test of my own abilities.
 
 
 
-Made by Marcin Torchala
+Made by tgj
